@@ -1,2 +1,16 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1615156283,1615156283,"Migrated from /etc/pihole/adlists.list",1621137302,81379,0,1
+2,https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt,1,1617439477,1617439477,"DOH Servers",1619569347,206,0,2
+3,https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt,1,1617439697,1617439697,"DOH 2",1619569348,194,0,2
+5,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1617439758,1617439758,"Great Wall DOH",1619569348,132,0,2
+6,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1621009179,1621009179,"Firebog - Malicious 1",1621009468,328,0,2
+7,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1621009197,1621009197,"Firebog - Malicious 2",1621137303,27,0,1
+8,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1621009222,1621009222,"Firebog - Malicious 3",1621009469,2735,0,2
+9,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1621009238,1621009274,"Firebog - Malicious 4",1621009470,13628,0,2
+10,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1621009281,1621009281,"Firebog - Malicious 5",1621009470,2046,0,2
+11,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1621009296,1621009296,"Firebog - Malicious 6",1621137304,34405,0,1
+12,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1621009329,1621009329,"Firebog - Malicious 7",1621009471,348,0,2
+13,https://v.firebog.net/hosts/Shalla-mal.txt,1,1621009350,1621009354,"Firebog - Malicious 8",1621009471,19234,0,2
+14,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1621009369,1621009369,"Firebog - Malicious 9",1621137305,8148,0,1
+15,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1621009384,1621009384,"Firebog - Malicious 10",1621009471,2556,0,2
+16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1621009398,1621009398,"Firebog - Malicious 11",1621137305,1168,0,1

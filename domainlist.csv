@@ -2,3 +2,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 2,1,static.myfinance.com,1,1615564881,1615564881,
 3,3,(\.|^)ackcdn\.net$,1,1617439975,1617439975,
 4,3,(\.|^)realsrv\.com$,1,1617440051,1617440051,
+5,0,buff.ly,1,1621465292,1621465292,

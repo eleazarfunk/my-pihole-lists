@@ -3,3 +3,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 3,3,(\.|^)ackcdn\.net$,1,1617439975,1617439975,
 4,3,(\.|^)realsrv\.com$,1,1617440051,1617440051,
 5,0,buff.ly,1,1621465292,1621465292,
+6,0,z.cdn.turner.com,1,1623810652,1623810652,"TNT app"
+7,0,manifest.auditude.com,1,1623810677,1623810677,"TNT app"

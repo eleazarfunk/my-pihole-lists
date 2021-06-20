@@ -1,32 +1,32 @@
 id,address,enabled,date_added,date_modified,comment,date_updated,number,invalid_domains,status
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1615156283,1615156283,"Migrated from /etc/pihole/adlists.list",1623556502,82076,0,1
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1615156283,1615156283,"Migrated from /etc/pihole/adlists.list",1624161301,81113,0,1
 2,https://raw.githubusercontent.com/oneoffdallas/dohservers/master/list.txt,1,1617439477,1617439477,"DOH Servers",1619569347,206,0,2
 3,https://raw.githubusercontent.com/oneoffdallas/dohservers/master/iplist.txt,1,1617439697,1617439697,"DOH 2",1619569348,194,0,2
 5,https://raw.githubusercontent.com/Sekhan/TheGreatWall/master/TheGreatWall.txt,1,1617439758,1617439758,"Great Wall DOH",1619569348,132,0,2
-6,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1621009179,1621009179,"Firebog - Malicious 1",1623556503,365,0,1
-7,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1621009197,1621009197,"Firebog - Malicious 2",1623556503,33,0,1
+6,https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt,1,1621009179,1621009179,"Firebog - Malicious 1",1624161302,495,0,1
+7,https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt,1,1621009197,1621009197,"Firebog - Malicious 2",1624161303,54,0,1
 8,https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt,1,1621009222,1621009222,"Firebog - Malicious 3",1621009469,2735,0,2
 9,https://v.firebog.net/hosts/Prigent-Crypto.txt,1,1621009238,1621009274,"Firebog - Malicious 4",1621742104,13721,0,2
 10,https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt,1,1621009281,1621009281,"Firebog - Malicious 5",1621009470,2046,0,2
-11,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1621009296,1621009296,"Firebog - Malicious 6",1623556504,37684,0,1
-12,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1621009329,1621009329,"Firebog - Malicious 7",1623556505,337,0,1
+11,https://phishing.army/download/phishing_army_blocklist_extended.txt,1,1621009296,1621009296,"Firebog - Malicious 6",1624161304,38270,0,1
+12,https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt,1,1621009329,1621009329,"Firebog - Malicious 7",1624161304,333,0,1
 13,https://v.firebog.net/hosts/Shalla-mal.txt,1,1621009350,1621009354,"Firebog - Malicious 8",1621009471,19234,0,2
 14,https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt,1,1621009369,1621009369,"Firebog - Malicious 9",1622346905,8154,0,2
 15,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts,1,1621009384,1621009384,"Firebog - Malicious 10",1621009471,2556,0,2
-16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1621009398,1621009398,"Firebog - Malicious 11",1623556505,1215,0,1
-17,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1621203083,1621203083,"Firebog - Suspicious 1",1623556506,21742,0,1
+16,https://urlhaus.abuse.ch/downloads/hostfile/,1,1621009398,1621009398,"Firebog - Malicious 11",1624161304,1137,0,1
+17,https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt,1,1621203083,1621203083,"Firebog - Suspicious 1",1624161305,22491,0,1
 18,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts,1,1621203101,1621203101,"Firebog - Suspicious 2",1621203327,73,0,2
 19,https://v.firebog.net/hosts/static/w3kbl.txt,1,1621203115,1621203115,"Firebog - Suspicious 3",1621203328,909,0,2
-20,https://adaway.org/hosts.txt,1,1621203135,1621203135,"Firebog - Ads 1",1623556507,8783,0,1
-21,https://v.firebog.net/hosts/AdguardDNS.txt,1,1621203146,1621203146,"Firebog - Ads 2",1623556507,37098,0,1
+20,https://adaway.org/hosts.txt,1,1621203135,1621203135,"Firebog - Ads 1",1624161306,8768,0,1
+21,https://v.firebog.net/hosts/AdguardDNS.txt,1,1621203146,1621203146,"Firebog - Ads 2",1624161306,37110,0,1
 22,https://v.firebog.net/hosts/Admiral.txt,1,1621203157,1621203157,"Firebog - Ads 3",1621203329,662,0,2
-23,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1621203170,1621203170,"Firebog - Ads 4",1623556507,42284,0,1
+23,https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt,1,1621203170,1621203170,"Firebog - Ads 4",1623556507,42284,0,2
 24,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1621203181,1621203181,"Firebog - Ads 5",1621203330,2701,0,2
-25,https://v.firebog.net/hosts/Easylist.txt,1,1621203196,1621203196,"Firebog - Ads 6",1623556508,11667,0,1
-26,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1621203208,1621203208,"Firebog - Ads 7",1623556509,3632,0,1
+25,https://v.firebog.net/hosts/Easylist.txt,1,1621203196,1621203196,"Firebog - Ads 6",1624161307,11604,0,1
+26,https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext,1,1621203208,1621203208,"Firebog - Ads 7",1624161308,3631,0,1
 27,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts,1,1621203219,1621203219,"Firebog - Ads 8",1621203331,10,0,2
-28,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1621203237,1621203237,"Firebog - Ads 9",1623556509,17570,0,1
-29,https://v.firebog.net/hosts/Easyprivacy.txt,1,1621203255,1621203255,"Firebog - Tracking 1",1623556509,9753,0,1
+28,https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts,1,1621203237,1621203237,"Firebog - Ads 9",1624161308,17450,0,1
+29,https://v.firebog.net/hosts/Easyprivacy.txt,1,1621203255,1621203255,"Firebog - Tracking 1",1624161308,9759,0,1
 30,https://v.firebog.net/hosts/Prigent-Ads.txt,1,1621203267,1621203267,"Firebog - Tracking 2",1621203332,3670,0,2
 31,https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts,1,1621203279,1621203279,"Firebog - Tracking 3",1621203332,1286,0,2
 32,https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt,1,1621203291,1621203291,"Firebog - Tracking 4",1621203332,375,0,2
